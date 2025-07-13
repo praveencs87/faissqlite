@@ -1,0 +1,4 @@
+faiss-cpu>=1.7.4
+numpy>=1.21.0
+fastapi>=0.100.0 # For REST API (optional, not required for core)
+utools # Placeholder for any future utilities

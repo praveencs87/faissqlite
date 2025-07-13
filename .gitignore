@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite/FAISS artifacts
+*.db
+*.sqlite3
+*.sqlite
+*.faiss
+*.index
+
+# Logs
+*.log
+
+# Test outputs
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Editors/IDEs
+.idea/
+.vscode/
+*.swp
+
+# Misc
+*.bak
+*.tmp
