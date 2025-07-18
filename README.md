@@ -132,7 +132,7 @@ Contributions are welcome! Please open issues or pull requests. See [CONTRIBUTIN
 ---
 
 ## 🌐 Links
-- GitHub: https://github.com/yourusername/faissqlite
+- GitHub: https://github.com/praveencs87/faissqlite
 - PyPI: https://pypi.org/project/faissqlite
 
 ---
